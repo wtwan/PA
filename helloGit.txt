@@ -2,3 +2,4 @@ helloGit
 helloGit,this is second
 helloGit,this is 3
 xxx
+no trash 
