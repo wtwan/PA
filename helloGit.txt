@@ -4,3 +4,5 @@ helloGit,this is 3
 xxx
 no trash 
 no trash 2
+branch1
+branch1lol
